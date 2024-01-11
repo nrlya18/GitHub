@@ -2,7 +2,6 @@
 
 # Pengertian GitHub
 
-
 GitHub adalah platform pengelolaan kode sumber yang menggunakan sistem kontrol versi Git. Ini memungkinkan pengembang menyimpan, berbagi, dan mengelola proyek perangkat lunak, dengan fitur seperti repositori (tempat penyimpanan proyek), commit (penyimpanan perubahan kode), branch (cabang kerja terpisah), dan pull request (permintaan penggabungan perubahan). GitHub memfasilitasi kolaborasi tim dan pelacakan perubahan proyek dengan efisien.
 
 # Manfaat GitHub
