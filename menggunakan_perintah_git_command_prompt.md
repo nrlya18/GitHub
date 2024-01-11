@@ -24,7 +24,9 @@ Jika proyek Anda sudah ada di GitHub, Anda bisa mengklon repositori tersebut ke 
 ### 7. Tambahkan File ke Repositori:
 - Tambahkan file ke repositori Git dengan perintah **add**:
   ![14](https://github.com/nrlya18/GitHub/assets/156055620/4b9ca2ba-9f18-4e44-b1d7-2efa7ae4f940)
+  
 - Jika ingin menambahkan semua file, gunakan:
+- 
   ![15](https://github.com/nrlya18/GitHub/assets/156055620/26625661-7ec8-4208-ad5b-0c8e2424ab13)
 ### 8. Buat Commit:
 Buat commit untuk menyimpan perubahan yang telah ditambahkan:
