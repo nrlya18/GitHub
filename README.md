@@ -1,6 +1,7 @@
 # Pengertian, Manfaat dan Fungsi GitHub
 
-# Pengertian GitHub
+# <span style="font-size:18px;">Pengertian GitHub 18px</span>
+
 
 GitHub adalah platform pengelolaan kode sumber yang menggunakan sistem kontrol versi Git. Ini memungkinkan pengembang menyimpan, berbagi, dan mengelola proyek perangkat lunak, dengan fitur seperti repositori (tempat penyimpanan proyek), commit (penyimpanan perubahan kode), branch (cabang kerja terpisah), dan pull request (permintaan penggabungan perubahan). GitHub memfasilitasi kolaborasi tim dan pelacakan perubahan proyek dengan efisien.
 
