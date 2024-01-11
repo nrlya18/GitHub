@@ -25,3 +25,8 @@ menggunakan kode
 
 ## 6. Membuat Kutipan
 
+## 7. Untuk Kode
+
+![GITHUB 6](https://github.com/nrlya18/GitHub/assets/156055620/d7d30a2d-79de-43c7-b7d4-1aecb14521ed)
+
+## 8. Garis Horizontal
