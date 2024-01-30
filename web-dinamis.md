@@ -1,9 +1,7 @@
 # Cara Membuat Web Dinamis Di Github
 Membuat website dinamis di GitHub melibatkan beberapa langkah umum. Berikut adalah panduan singkat tentang cara membuat website dinamis di GitHub:
 
-Buat Repositori GitHub:
-
-Buka akun GitHub jika belum memiliki satu.
+### 1. Buat Repositori GitHub:
 Buat repositori baru dengan mengklik tombol "New" di dashboard GitHub.
 Beri nama repositori sesuai dengan nama proyek Anda.
 Inisialisasi Repositori:
